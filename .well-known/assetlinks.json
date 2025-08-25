@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.anonymous.greenlight",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "7A:6B:A5:65:DB:59:3F:9E:9A:77:4A:3E:A1:A1:21:EE:A0:78:CB:68:F3:3F:7E:3D:69:F9:C3:43:22:76:E4:D0"
+      ]
+    }
+  }
+]
