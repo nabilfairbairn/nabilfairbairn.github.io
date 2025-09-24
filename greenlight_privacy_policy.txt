@@ -1,0 +1,52 @@
+Effective Date: 2025-09-24
+Last Updated: 2025-09-24
+
+Greenlight (“the App”), developed and operated by notfairapps (“we,” “our,” or “us”), respects your privacy. This Privacy Policy explains what data we collect, how we use it, and your rights.
+
+1. Information We Collect
+
+Account Information: When you log in with Google, we receive your name, email address, and profile information as provided by Google.
+
+User Data: You may input personal data such as habits, rewards, and related notes.
+
+Technical Data: We may collect limited technical information (device type, app version, crash logs) for debugging and improvement.
+
+2. How We Use Your Data
+
+To provide and improve the core functionality of the App.
+
+To authenticate your account via Google login.
+
+To save your habits, rewards, and preferences securely in Supabase.
+
+We do not sell, rent, or share your data with third parties for advertising.
+
+3. Data Storage & Security
+
+Your data is stored in Supabase, a secure cloud database provider. We use reasonable security measures to protect your information but cannot guarantee absolute security.
+
+4. Data Retention & Deletion
+
+We keep your data as long as your account is active.
+
+You may request deletion of your account and associated data at any time by contacting us at notfairapps@gmail.com.
+
+5. Third-Party Services
+
+Google Login: We use Google’s authentication services. Your use of Google sign-in is subject to Google’s privacy policy.
+
+App Stores: If you purchase subscriptions or in-app items, payments are processed by Apple App Store or Google Play. We do not store your payment details.
+
+6. Children’s Privacy
+
+The App is not intended for children under 13. We do not knowingly collect personal data from children under 13.
+
+7. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will update the “Last Updated” date when changes are made.
+
+8. Contact
+
+If you have questions about this Privacy Policy or your data, contact:
+Nabil Fairbairn
+Email: notfairapps@gmail.com
